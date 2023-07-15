@@ -1,0 +1,2 @@
+src/boot/ is a directory used by SGDK. Non SGDK source code is to be stored here.
+
